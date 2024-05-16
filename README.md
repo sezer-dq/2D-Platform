@@ -1,5 +1,5 @@
 ﻿# 2D-Platform
-karakterim tırmanarak saldırarak kaçarak engelleri aşıyor ve bir sonraki bölüme geçmeye çalışıyor
+My character overcomes obstacles by climbing attacking dodging and trying to get to the next level
 
 
 
